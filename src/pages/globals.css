@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("/fonts/SF-Pro/SFProFonts/SFProDisplay-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("/fonts/SF-Pro/SFProFonts/SFProDisplay-Medium.ttf")
+    format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("/fonts/SF-Pro/SFProFonts/SFProDisplay-Semibold.ttf")
+    format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("/fonts/SF-Pro/SFProFonts/SFProDisplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
